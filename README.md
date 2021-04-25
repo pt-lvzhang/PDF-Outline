@@ -1,3 +1,2 @@
-# test-project
-# This is my fisrt project.
+# Fisrt project.
 [This is a leetcode.](./leetcode)
